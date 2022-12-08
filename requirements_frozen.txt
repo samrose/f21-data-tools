@@ -1,6 +1,6 @@
 cachetools==4.1.0
 census==0.8.13
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 duckduckpy==0.2
 future==0.18.2
